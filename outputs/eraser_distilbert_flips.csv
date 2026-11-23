@@ -1,0 +1,97 @@
+idx,label,shap_tokens,pred_orig,pred_masked,flipped,text
+0,1,"['discount', 'Sms', 'Launching', '@', '400']",1,1,False,"Navratra Special Launching 9th oct. CHD presnts Phase-3 of Avenue71,  Shona Road,  Gurgaon *@Rs.4150/- Lease Rs.400/- as"
+2,1,"['http', 'mobile', 'FREE', 'bit', 'calls']",1,1,False,Englishvocabulary ululate: to mourn loudly and shrilly AD: Unlimited FREE calls to any mobile try out today http://bit.l
+3,1,"['contact', '£', '75', '7', '08']",1,1,False,"This is the 2nd time we have tried 2 contact u. U have won the Â£750 Pound prize. 2 claim is easy, call 087187272008 NOW"
+4,1,"['Cost', '01', 'BT', 'cash', 'Box']",1,1,False,BIG BROTHER ALERT! The computer has selected u for 10k cash or #150 voucher. Call 09064018838. NTT PO Box CRO1327 18+ BT
+5,1,"['Mobile', 'tx', '00', 'Call', '08']",1,1,False,Free video camera phones with Half Price line rental for 12 mths and 500 cross ntwk mins 100 txts. Call MobileUpd8 08001
+7,1,"['contact', '750', '08', '00', 'UNLIMITED']",1,1,False,We tried to contact you re your reply to our offer of a Video Handset? 750 anytime networks mins? UNLIMITED TEXT? Camcor
+8,1,"['mobile', '09', 'Box', '0', '7']",1,1,False,"You are being contacted by our Dating Service by someone you know! To find out who it is, call from your mobile or landl"
+9,1,"['£', '50', '1', 'send', 'X']",1,1,False,FreeMsg Hey there darling it's been 3 week's now and no word back! I'd like some fun you up for it still? Tb ok! XxX std
+10,1,"['BONUS', 'info', 'SPECIAL', '500', '86']",1,1,False,HMV BONUS SPECIAL 500 pounds of genuine HMV vouchers to be won. Just answer 4 easy questions. Play Now! Send HMV to 8668
+11,1,"['reply', 'FREE', 'Free', 'ring', 'Ms']",1,1,False,"Free Msg: get Gnarls Barkleys ""Crazy"" ringtone TOTALLY FREE just reply GO to this message right now!"
+12,1,"['upgrade', 'card', '70', '85', 'your']",1,1,False,"ATM BLOCK:Dear customer, Due to our system upgrade your ATM card has just been BL0CKED. To Re-Activate call customer car"
+13,1,"['YOUR', 'PAY', '27', 'OFFICE', '30']",1,1,False,WE WILL HOLD YOUR PAYTM AMOUNT AFTER SOMETIME COMPLETE YOUR PAYTM KYC PAYTM OFFICE PH 8927307655
+14,1,"['£', '90', 'receive', '0', 'call']",1,1,False,WINNER! As a valued network customer you hvae been selected to receive a Â£900 reward! To collect call 09061701444. Vali
+15,1,"['www', 'uk', '50', 'mobile', 'prizes']",1,1,False,"WIN: We have a winner! Mr. T. Tilo won an iPod! More exciting prizes soon, so keep an eye on ur mobile or visit www.win-"
+16,1,"['USER', 'ORANGE', 'www', 'http', '07']",1,1,False,IMPORTANT INFORMATION 4 ORANGE USER 0796XXXXXX. TODAY IS UR LUCKY DAY!2 FIND OUT WHY LOG ONTO http://www.urawinner.com T
+17,1,"['00', '08', '750', 'anytime', 'network']",1,1,False,Do you want a new video handset? 750 anytime any network mins? Half Price Line Rental? Camcorder? Reply or call 08000930
+18,1,"['12', 'Code', '0', 'Valid', 'Rs']",1,1,False,"URGENT! Dear FL1PKART Customer, We are trying to contact you. Last weekends draw shows that you w0n a Rs.2,00,000 prize "
+19,1,"['warrant', '09', 'call', 'M2', 'Delivery']",1,1,False,You are awarded a SiPix Digital Camera! call 09061221061 from landline. Delivery within 28days. T Cs Box177. M221BP. 2yr
+20,1,"['mobile', 'services', '09', '50', 'your']",1,1,False,"Thanks for your ringtone order, reference number X49.Your mobile will be charged 4.50. Should your tone not arrive pleas"
+21,1,"['call', '150', '09', '0', 'cash']",1,1,False,Urgent! Please call 09061743810 from landline. Your ABTA complimentary 4* Tenerife Holiday or #5000 cash await collectio
+22,1,"['89', 'FREE', '12', 'stop', 'mobile']",1,1,False,Welcome to UK-mobile-date this msg is FREE giving you free calling to 08719839835. Future mgs billed at 150p daily. To c
+23,1,"['uk', 'access', 'free', 'free', 'plus']",1,1,False,"Hello from Orange. For 1 month's free access to games, news and sport, plus 10 free texts and 20 photo messages, reply Y"
+24,1,"['weekend', 'Update', 'unlimited', 'Mobile', 'latest']",1,1,False,Had your mobile 11mths ? Update for FREE to Oranges latest colour camera mobiles & unlimited weekend calls. Call Mobile 
+25,1,"['break', 'www', 'org', '01', 'uk']",1,1,False,For the most sparkling shopping breaks from 45 per person; call 0121 2025050 or visit www.shortbreaks.org.uk
+26,1,"['08', '18', 'premium', '7', '88']",1,1,False,88800 and 89034 are premium phone services call 08718711108
+27,1,"['Sms', ':', 'Price', '3', '750']",1,1,False,Reduce Upto 6 Kgs in 30 Days with *ORIGINAL SAUNA SLIM BELT* MRP 1499 Com Direct Price 750 Book today & Get Acupressure 
+28,1,"['800', '0', 'Call', '9', 'mobile']",1,1,False,200 FREE minutes to any mobile + 100 FREE text + FREE camcorder Reply or Call 8000930705
+30,1,"['Call', 'access', 'fixed', 'Call', '!']",1,1,False,Call Germany for only 1 pence per minute! Call from a fixed line via access number 0844 861 85 86.
+31,1,"['Card', 'Visa', 'payment', 'your', 'payment']",1,1,False,Courtsy reminder: payment on your NAB Visa Card is now overdue. Please refer to your statement for payment options or ca
+32,1,"['Customer', 'wallet', 'booked', 'amount', '10']",1,1,False,Dear Customer your pyatm wallet Has been booked and hold Your amount please complete your kyc contact customer care 8536
+33,1,"['6', 'FREE', 'Call', 'Mobile', 'mobile']",1,1,False,! Had your mobile 11mths+? You are entitled to update to the latest colour camera mobile for Free! Call The Mobile Updat
+34,1,"['Customer', 'wallet', 'booked', 'amount', 'your']",1,1,False,Dear Customer your pyatm wallet Has been booked and hold Your amount please complete your kyc contact customer care 6200
+35,1,"['http', 'Bank', 'Alert', '43', 'bit']",1,1,False,BankOfAmerica Alert 137943. Please follow http://bit.do/cgjK-and re-activate
+36,1,"['Tx', 'Call', 'FREE', 't', 'phones']",1,1,False,Great NEW Offer - DOUBLE Mins & DOUBLE Txt on best Orange tariffs AND get latest camera phones 4 FREE! Call on 080008394
+37,1,"['Mobile', 'tx', 'phones', '00', '08']",1,1,False,"Double mins and txts 4 6monthsAvailable on Sony, Nokia Motorola phones. Call MobileUpd8 on 08000839403 or call2optout/N9"
+38,1,"['200', 'message', '400', '08', 'call']",1,1,False,You have 1 new message. Please call 08712400200.
+39,1,"['Pay', 'suspended', '2', 'Your', 'PAY']",1,1,False,Dear (paytm)customer your paytm KYC has been suspended PAY-TM office PH 6200992462 Your Paytm A/C will block within 24hr
+40,1,"['Rs', '0', '52', 'fo', 'receive']",1,1,False,"Todays Vodafone numbers ending 5263 are selected to receive a Rs.2,00,000 award. If you have a match please call 6200992"
+41,1,"['tx', 'FREE', 'www', 'tx', 'Nokia']",1,1,False,FREE for 1st week! No1 Nokia tone 4 ur mob every week just txt NOKIA to 8007 Get txting and tell ur mates www.getzed.co.
+42,1,"['500', '£', '08', 'PHONE', '100']",1,1,False,Please call our customer service representative on FREEPHONE 0808 145 4742 between 9am-11pm as you have WON a guaranteed
+43,1,"['£', '70', '08', 'Free', '28']",1,1,False,"5 Free Top Polyphonic Tones call 087018728737, National Rate. Get a toppoly tune sent every week, just text SUBPOLY to 8"
+44,1,"['Tx', 't', 'Offer', 'NOKIA', 'Customer']",1,1,False,Hi 07734396840 IBH Customer Loyalty Offer: The NEW NOKIA6600 Mobile from ONLY Â£10 at TXTAUCTION!Txt word:START to No:81
+45,1,"['customer', 'valued', '00', 'Mobile', '89']",1,1,False,"As a valued customer, I am pleased to advise you that following recent review of your Mobile No. you are awarded with a "
+46,1,"['£', 'Mobile', '200', '0', 'Valid']",1,1,False,URGENT! Your Mobile number has been awarded with a Â£2000 prize GUARANTEED. Call 09061790321 from land line. Claim 3030.
+47,1,"['Australia', '!', 'recorder', 'Sony', 'Quiz']",1,1,False,Sunshine Quiz! Win a super Sony DVD recorder if you canname the capital of Australia? Text MQUIZ to 82277. B
+48,1,"['£', '09', 'CALL', '80', '0']",1,1,False,"You've won tkts to the EURO2004 CUP FINAL or Â£800 CASH, to collect CALL 09058099802"
+49,1,"['08', '7', 'Call', '18', 'you']",1,1,False,Natalja (25/F) is inviting you to be her friend. Call 08718738034
+50,0,"['Hi', ':', ')', 'finally', 'i']",0,0,False,Hi :)finally i completed the course:)
+51,0,"['I', 'can', 't', 'keep', 'talking']",0,0,False,I cant keep talking to people if am not sure i can pay them if they agree to price. So pls tell me what you want to real
+52,0,"['A', 'cute', 'thought', 'for', 'friendship']",0,0,False,"A cute thought for friendship: ""Its not necessary to share every secret with ur close Frnd, but watever u shared should "
+53,0,"['your', ',', 'never', 'texts', 'says']",0,0,False,"G says you never answer your texts, confirm/deny"
+54,0,"['Lo', 'l', 'alright', 'i', 'was']",0,0,False,Lol alright i was thinkin that too haha
+55,0,"['How', 's', 'the', 'champ', 'just']",0,0,False,Hows the champ just leaving glasgow!
+56,0,"['Stop', 'knowing', 'me', 'so', 'well']",0,0,False,Stop knowing me so well!
+57,0,"['Is', 'there', 'a', 'reason', 'we']",0,0,False,Is there a reason we've not spoken this year? Anyways have a great week and all the best in your exam
+58,0,"['Fr', 'nd', 's', 'not', 'ju']",0,0,False,"Frnd s not juz a word.....not merely a relationship.....its a silent promise which says ... "" I will be with YOU "" Where"
+59,0,"['I', 'know', 'a', 'few', 'people']",0,0,False,I know a few people I can hit up and hit to the yes
+60,0,"['You', 'int', 're', 'pid', 'duo']",0,0,False,You intrepid duo you! Have a great time and see you both soon.
+61,0,"['I', 'don', 't', 'have', 'any']",0,0,False,I dont have any of your file in my bag..i was in work when you called me.i 'll tell you if i find anything in my room.
+62,0,"['Yeah', 'so', 'basically', 'any', 'time']",0,0,False,Yeah so basically any time next week you can get away from your mom &amp; get up before 3
+63,0,"['I', 'want', 'to', 'go', 'to']",0,0,False,I want to go to perumbavoor
+64,0,"['Sorry', ',', 'I', 'have', 'some']",0,0,False,"Sorry, I have some work.."
+65,0,"['Dude', 'we', 'should', 'go', 'su']",0,0,False,Dude we should go sup again
+66,0,"['Do', 'you', 'know', 'why', 'god']",0,0,False,"Do you know why god created gap between your fingers..? So that, One who is made for you comes and fills those gaps by h"
+67,0,"['Wat', 'r', 'u', 'doing', '?']",0,0,False,Wat r u doing?
+68,0,"['You', 'in', 'your', 'room', '?']",0,0,False,You in your room? I need a few
+69,0,"['How', 'long', 'has', 'it', 'been']",0,0,False,"How long has it been since you screamed, princess?"
+70,0,"['Tell', 'rob', 'to', 'mack', 'his']",0,0,False,Tell rob to mack his gf in the theater
+71,0,"['Ran', 'jit', 'h', 'cal', 'dr']",0,0,False,Ranjith cal drpd
+72,0,"['Lu', 'l', 'im', 'get', 'tin']",0,0,False,Lul im gettin some juicy gossip at the hospital. Two nurses are talking about how fat they are gettin. And one thinks sh
+73,0,"['Jan', 'is', 'fast', 'approaching', '.']",0,0,False,"Jan is fast approaching. So, Wish u a very Happy New Year Happy Sankranti Happy republic day Happy Valentines Day Happy "
+74,0,"['Nationwide', 'auto', 'centre', 'I', 'liked']",0,0,False,Nationwide auto centre (or something like that) on Newport road. I liked them there
+75,0,"['Lo', 'l', ',', 'oh', 'you']",0,0,False,"Lol, oh you got a friend for the dog ?"
+76,0,"['Ok', 'I', ""'"", 'm', 'gonna']",0,0,False,Ok I'm gonna head up to usf in like fifteen minutes
+77,0,"['aa', 'thi', '.', '.', 'where']",0,0,False,aathi..where are you dear..i AM WAITING FOR u
+78,0,"['Going', 'to', 'join', 'tomorrow', '.']",0,0,False,Going to join tomorrow.
+79,0,"['What', ""'"", 's', 'up', 'br']",0,0,False,"What's up bruv, hope you had a great break. Do have a rewarding semester."
+80,0,"['Yes', 'da', '.', 'Any', 'pl']",0,0,False,Yes da. Any plm at ur office
+81,0,"['The', 'guy', '(', 'kade', 'em']",0,0,False,"The guy (kadeem) hasn't been selling since the break, I know one other guy but he's paranoid and doesn't like selling wi"
+82,0,"['Hey', 'so', 'this', 'sat', 'are']",0,0,False,Hey so this sat are we going for the intro pilates only? Or the kickboxing too?
+83,0,"['I', ""'"", 'm', 'home', '.']",0,0,False,I'm home. Ard wat time will u reach?
+84,0,"['I', 'reach', 'home', 'safe', 'n']",0,0,False,I reach home safe n sound liao...
+85,0,"['Today', 'am', 'going', 'to', 'college']",0,0,False,Today am going to college so am not able to atten the class.
+87,0,"['What', ""'"", 's', 'ur', 'pin']",0,0,False,What's ur pin?
+88,0,"['want', 'to', 'use', 'just', 'Tell']",0,0,False,Tell them u have a headache and just want to use 1 hour of sick time.
+89,0,"['Jay', ""'"", 's', 'getting', 'really']",0,0,False,Jay's getting really impatient and belligerent
+90,0,"['Sorry', 'dude', '.', 'Don', 't']",0,0,False,Sorry dude. Dont know how i forgot. Even after Dan reminded me. Sorry. Hope you guys had fun.
+91,0,"['No', ',', 'its', 'true', '.']",0,0,False,"No, its true..k,Do u knw dis no. &lt;#&gt; ?"
+92,0,"['Is', 'avatar', 'supposed', 'to', 'have']",0,0,False,Is avatar supposed to have subtoitles
+93,0,"['Gu', 'd', 'mr', 'ng', 'dear']",0,0,False,Gud mrng dear hav a nice day
+94,0,"['That', ""'"", 's', 'what', 'I']",0,0,False,"That's what I love to hear :V see you sundayish, then"
+95,0,"['I', 'see', 'the', 'letter', 'B']",0,0,False,I see the letter B on my car
+96,0,"['Hey', '.', 'You', 'got', 'any']",0,0,False,Hey. You got any mail?
+97,0,"['You', 'said', 'to', 'me', 'before']",0,0,False,You said to me before i went back to bed that you can't sleep for anything.
+98,0,"['5', ';', 'remove', '.', ')']",0,0,False,"1) Go to write msg 2) Put on Dictionary mode 3)Cover the screen with hand, 4)Press  &lt;#&gt; . 5)Gently remove Ur hand."
+99,0,"['online', 'using', 'you', 'buck', 'play']",1,0,True,Somebody set up a website where you can play hold em using eve online spacebucks

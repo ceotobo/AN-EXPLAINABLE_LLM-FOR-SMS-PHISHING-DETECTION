@@ -1,0 +1,2 @@
+model,base,accuracy,precision,recall,f1,fpr
+llama3,unsloth/llama-3-8b-Instruct-bnb-4bit,0.9909,0.9548,0.9933,0.9737,0.0096
